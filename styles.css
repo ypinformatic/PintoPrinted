@@ -99,9 +99,9 @@ header{
 .logo{
   width:38px; height:38px; border-radius:12px;
   display:grid; place-items:center;
-  background: linear-gradient(180deg, rgba(46,192,120,.25), rgba(46,192,120,.10));
+  background: linear-gradient(180deg, rgba(46,192,220,.25), rgba(46,192,220,.10));
   border:1px solid rgba(46,192,220,.25);
-  box-shadow: 0 10px 24px rgba(255,176,0,.10);
+  box-shadow: 0 10px 24px rgba(216,86,159,.10);
   font-weight:900;
   color: var(--accent2);
 }
@@ -141,7 +141,7 @@ header{
 .glow{
   position:absolute; inset:-140px -120px auto auto;
   width:340px; height:340px; border-radius:999px;
-  background: radial-gradient(circle at 30% 30%, rgba(255,176,0,.25), transparent 60%);
+  background: radial-gradient(circle at 30% 30%, rgba(216,86,159,.25), transparent 60%);
   filter: blur(10px);
   pointer-events:none;
 }
