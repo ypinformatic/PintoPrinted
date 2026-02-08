@@ -189,8 +189,8 @@ h1{
 }
 .check{
   width:18px; height:18px; border-radius:6px;
-  background: rgba(46,229,157,.14);
-  border:1px solid rgba(46,229,157,.28);
+  background: rgba(205,98,164,.14);
+  border:1px solid rgba(216,86,159,.28);
   display:grid; place-items:center;
   margin-top:2px;
   flex: 0 0 auto;
